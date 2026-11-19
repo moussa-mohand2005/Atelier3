@@ -1,0 +1,4 @@
+__pycache__/
+.ipynb_checkpoints/
+*.log
+Part1/data/lemma_cache.json
